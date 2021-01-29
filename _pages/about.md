@@ -6,6 +6,22 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+=======
+title: <strong>Image, Vision, leArning</strong>
+description: A research unit of <a href="https://www.onera.fr/en/dtis-information-processing-and-systems"> at <a href="http://www.onera.fr">ONERA</a>
+profile:
+  align: right
+  image: permanentGroup.png
+  address: >
+   <p><a href="http://www.onera.fr">ONERA</a> / <a href="https://www.onera.fr/en/dtis-information-processing-and-systems"> DTIS </a></p>
+    <p>6, chemin de la Grange aux Vauves</p>
+    <p>BP 80100</p>
+    <p>91123 Palaiseau Cedex</p>
+    <p>France</p>
+
+news: true
+social: true
+>>>>>>> fa4184eb6706d58835fe13037d731f67fb424d60
 ---
 Welcome to IVA’s website !
 
