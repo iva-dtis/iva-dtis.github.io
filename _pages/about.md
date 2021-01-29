@@ -1,5 +1,6 @@
 ---
 permalink: /
+<<<<<<< HEAD
 title: "About us"
 excerpt: "About us"
 author_profile: true
