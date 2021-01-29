@@ -5,7 +5,7 @@ title: <strong>Image, Vision, leArning</strong>
 description: A research unit of <a href="https://www.onera.fr/en/dtis-information-processing-and-systems"> at <a href="http://www.onera.fr">ONERA</a>
 profile:
   align: right
-  image: group.jpg
+  image: permanentGroup.png
   address: >
    <p><a href="http://www.onera.fr">ONERA</a> / <a href="https://www.onera.fr/en/dtis-information-processing-and-systems"> DTIS </a></p>
     <p>6, chemin de la Grange aux Vauves</p>
