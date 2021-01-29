@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :  "iva dtis"
+  name             : "iva dtis"
   avatar           : "sigleIVA.png"
   bio              : "A research Unit at ONETA"
   location         : "Palaiseau, France"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dtis-iva"
+  github           : "iva-dtis"
   google_plus      :
   keybase          :
   instagram        :
