@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IVA DTIS"
+title                    : "Gaston Lenczner"
 title_separator          : "-"
-name                     : &name "IVA DTIS"
-description              : &description "A research unit of ONERA"
-url                      :  https://iva-dtis.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gaston Lenczner"
+description              : &description "PhD student at Alteia and ONERA"
+url                      :  https://gaslen.github.io #"http://127.0.0.1:4000/" #https://gaslen.github.io  # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iva-dtis/iva-dtis.github.io"
+repository               : "gaslen/gaslen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "iva dtis"
-  avatar           : "sigleIVA.png"
-  bio              : "A research Unit at ONETA"
-  location         : "Palaiseau, France"
+  name             :  "Gaston Lenczner"
+  avatar           : "profil3.png"
+  bio              : "PhD student at Alteia and ONERA"
+  location         : "Paris, France"
   employer         : 
   pubmed           : 
-  googlescholar    : ""
-  email            : ""
+  googlescholar    : "citations?user=BC81wnUAAAAJ&hl=fr"
+  email            : "gaston.lenczner@alteia.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iva-dtis"
+  github           : "gaslen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : 
-  orcid            : 
+  linkedin         : "gaston-l-0873a8136"
+  orcid            : "http://orcid.org/0000-0002-4697-8894"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCFyhzZA455feE3x9nldmj0Q"
   wikipedia        :
   personal         : 
 
