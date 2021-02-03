@@ -13,11 +13,11 @@ author_profile: true
 * Anthelme Bernard-Brunel
 * Frédéric Champagnat
 * [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
+* [Elise Colin Koeniguer](https://github.com/elisekoeniguer)
 * Philippe Cornic
 * Alexandre Eudes
 * Pierre Fournier
 * [Stéphane Herbin](https://stepherbin.github.io/)
-* Elise Koeniguer
 * Alain Michel
 * Julien Moras
 * [Aurélien Plyer](https://github.com/aplyer)
