@@ -15,6 +15,7 @@ author_profile: true
 * [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
 * Philippe Cornic
 * Alexandre Eudes
+* [Guy Le Besnerais](https://guylebesnerais.github.io/)
 * Pierre Fournier
 * [Stéphane Herbin](https://stepherbin.github.io/)
 * Elise Koeniguer
