@@ -27,7 +27,10 @@ author_profile: true
 };
 </script>
 
+Our work concerns vision and, more generally, on-board data processing for autonomous navigation and environment modeling by one or more robots. They are largely in line with the [Copernic Lab](https://w3.onera.fr/copernic/node/18), which brings together experimental and methodological resources at ONERA Palaiseau for autonomous robotics.
+
 ## Visual Localization
+
 ### OV2SLAM: Online Versatile Visual SLAM
 #### Maxime Ferrera, Alexandre Eudes, Julien Moras, Martial Sanfourche and Guy Le Besnerais
 
