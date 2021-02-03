@@ -32,7 +32,8 @@ author_profile: true
 #### Maxime Ferrera, Alexandre Eudes, Julien Moras, Martial Sanfourche and Guy Le Besnerais
 
 ![OV2SLAM](/images/OV2SLAM1.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-OV2SLAM is a state-of-the-art Visual SLAM for real-time applications...
+Many applications of Visual SLAM, such as augmented reality, virtual reality, robotics or autonomous driving, require versatile, robust and precise solutions, most often with
+real-time capability. We propose a fully online algorithm, handling both monocular and stereo camera setups, various map scales and frame-rate ranging from a few Hertz up to several hundreds. It combines numerous recent contributions in visual localization within an efficient multi-threaded architecture.
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
