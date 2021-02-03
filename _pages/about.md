@@ -8,7 +8,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: onera-france.jpg
+  overlay_image: images/onera-france.jpg
   caption: "Photo: rapport annuel ONERA"
 excerpt: "A research team in Palaiseau (France)<br><br>"
 ---
