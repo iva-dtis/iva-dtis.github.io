@@ -1,11 +1,17 @@
 # main links links
 main:
   - title: "Team"
-    url: /team/  
-
-  - title: "Projects"
-    url: /projects/  
-
-  - title: "Softwares"
-    url: /softwares/
+    url: /team/
+    
+  - title: "Measure"
+    url: /measure/  
+    
+  - title: "Robotics"
+    url: /robotics/
+    
+  - title: "Understanding"
+    url: /understanding/
+    
+  - title: "AI"
+    url: /ai/
 

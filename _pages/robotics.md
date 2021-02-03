@@ -1,7 +1,7 @@
 ---
 layout: "single"
-title: "Projects"
-permalink: "/projects/"
+title: "Robotics"
+permalink: "/robotics/"
 author_profile: true
 
 ---
@@ -27,20 +27,14 @@ author_profile: true
 };
 </script>
 
-# Projects
+## Visual Localization
+### OV2SLAM: Online Versatile Visual SLAM
+#### Maxime Ferrera, Alexandre Eudes, Julien Moras, Martial Sanfourche and Guy Le Besnerais
 
-![MFOF](/images/SF.png){: style="float: left; margin-right: 1em;height: 100px; margin-top: 1.5em;width: 130px"} 
-### Learning methods for multiframe Optical Flow Estimation
-#### Work by Pierre Godet, who defended its PhD on friday, 22th january 2021, in collaboration with [Alexandre Boulc'h](https://www.boulch.eu/) at Valeo.ai and [Aurélien Plyer](https://github.com/aplyer) ONERA.
+![OV2SLAM](/images/OV2SLAM1.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+OV2SLAM is a state-of-the-art Visual SLAM for real-time applications...
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
-    <a href="https://arxiv.org/pdf/2007.05481" style="color:page.header.overlay_color">[PDF]</a>
-    <a href="https://github.com/pgodet/star_flow" style="color:page.header.overlay_color">[GitHub]</a>
-<!-- </p> -->
+    <a href="https://github.com/ov2slam" style="color:page.header.overlay_color">[GitHub]</a>
 <!-- </normal> -->
-
-
-
-
-<!-- ------
