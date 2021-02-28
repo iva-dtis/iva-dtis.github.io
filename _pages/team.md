@@ -8,6 +8,7 @@ author_profile: true
 
 ## Staff
 
+Here are some of the permanent members of IVA with the links to their personal websites.
 
 <!---
 * Alexandre Alakian
