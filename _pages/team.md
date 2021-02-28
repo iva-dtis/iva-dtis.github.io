@@ -15,25 +15,32 @@ author_profile: true
 * Anthelme Bernard-Brunel
 * Frédéric Champagnat
 -->
+
 * [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
+
 <!---
 * Philippe Cornic
 * Alexandre Eudes
 * Pierre Fournier
 -->
+
 * [Guy Le Besnerais](https://guylebesnerais.github.io/)
 * [Stéphane Herbin](https://stepherbin.github.io/)
+
 <!---
 * Elise Koeniguer
 * Alain Michel
 * Julien Moras
 -->
+
 * [Aurélien Plyer](https://github.com/aplyer)
+
 <!---
 * Martial Sanfourche
 * Patrick Secchi
 * Pauline Trouvé-Peloux
 -->
+
 * [Flora Weissgerber](https://flora.weissgerber.fr/)
 
 
