@@ -44,29 +44,25 @@ Here are some of the permanent members of IVA with the links to their personal w
 
 * [Flora Weissgerber](https://flora.weissgerber.fr/)
 
-
 ## Students
 
+Most of the following students are co-advised with french universities or other research teams (see details in parentheses)
+
+* Magdeleine Airiau (with ONERA DMPE)
 * Benjamin Buat
-* Javiera Castillo Navarro
-* Maxime Chareyre
-* Thomas Di Martino
-* Simon Erdmann
-* William Grisons 
-* Alexis Lechat
-* [Gaston Lenczner](https://gaslen.github.io/)
-* Rémy Leroy
-* Nathan Letheule
-* Antoine Manier
-* Guillaume Vaudaux-Ruth
-
-
-## Co-advised Students
-
-* Magdeleine Airiau
-* Laurane Charrier
-* Arthur Vervinck
-
+* Javiera Castillo Navarro (with CNES, UBS and ESA)
+* Laurane Charrier (with U. Savoie)
+* Maxime Chareyre (with Sigma Clermont)
+* Thomas Di Martino (with SONDRA, Palaiseau)
+* Simon Erdmann (with ONERA DOTA)
+* William Grison 
+* Alexis Lechat (with Université Caen Normandie)
+* [Gaston Lenczner](https://gaslen.github.io/) (with Alteia-Delair and ESA)
+* Rémy Leroy (with ESA)
+* Nathan Letheule (with ONERA DEMR)
+* Antoine Manier (with SNCF/Altametris)
+* Guillaume Vaudaux-Ruth (with ISIR)
+* Arthur Vervinck (with ONERA DAAA)
 
 ## Past Students
 
