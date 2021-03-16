@@ -29,7 +29,7 @@ author_profile: true
 
 this page reports on the seminar (or reading group) of the unit and offers associated documents (slides, video, references) 
 
-### 03.16.2021: Sur la convergence des apprentissages
+### 16 mars 2021: Sur la convergence des apprentissages
 #### Adrien Chan Hon Tong
 
 ![Adrien](/images/imageAdrien.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
@@ -48,7 +48,7 @@ Références :
 * Nips2019 (Chicago + Israël) Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate
 
 
-### 03.02.2021: BERT
+### 2 mars 2021: BERT
 #### William Grison
 
 ![William](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
@@ -63,7 +63,7 @@ Une présentation de BERT (Bidirectional Encoder Representations from Transforme
 Références :
 * Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 
-### 11.01.2020: RL: from basics to Hindsight Experience Replay
+### novembre 2020: RL: from basics to Hindsight Experience Replay
 #### Pierre Fournier
 
 ![Pierre](/images/imagePierre.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
