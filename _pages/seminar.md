@@ -42,6 +42,7 @@ On présente qq articles et résultats sur le choix des paramètres d'optimisati
 
 Références : A compléter
 
+
 ### 03.02.2021: BERT
 #### William Grison
 
@@ -53,6 +54,7 @@ Une présentation de BERT (Bidirectional Encoder Representations from Transforme
     <a href="https://drive.google.com/file/d/11NNLZ1UEtXF3Vv0zvt4KW4ySgon2Kmlc/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
     <a href="https://youtu.be/eetNbgjV9VY" style="color:page.header.overlay_color">[Video]</a>
 <!-- </normal> -->
+
 
 ### 11.01.2020: RL: from basics to Hindsight Experience Replay
 #### Pierre Fournier
