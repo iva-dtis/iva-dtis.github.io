@@ -27,20 +27,25 @@ author_profile: true
 };
 </script>
 
-this page reports on the seminar (or reading group) of the unit and offers associated documents (articles, presentations) 
+this page reports on the seminar (or reading group) of the unit and offers associated documents (slides, video, references) 
 
 ### 03.16.2021: Sur la convergence des apprentissages
 #### Adrien Chan Hon Tong
 
 ![Adrien](/images/imageAdrien.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-On présente qq articles et résultats sur le choix des paramètres d'optimisation d'un réseau (learning rate, batch size, etc.) et on s'interroge sur leur pertinence pour la segmentaiton sémantique. 
+On présente qq articles et résultats sur le choix des paramètres d'optimisation d'un réseau (learning rate, batch size, etc.) et on s'interroge sur leur pertinence pour la segmentation sémantique. 
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
     <a href="https://drive.google.com/file/d/1CbD-WVXVha2RugW63501bksLZdxbEj6F/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
 <!-- </normal> -->
 
-Références : A compléter
+Références : 
+* 2006.15081 (deepmind) On the Generalization Benefit of Noise in Stochastic Gradient Descent
+* 1907.04595 (Carnegie) Towards Explaining the Regularization Effect of Initial Large Learning Rate in Training Neural Networks
+* 1907.04164 (deepmind) Which Algorithmic Choices Matter at Which Batch Sizes? Insights From a Noisy Quadratic Model
+* 1704.04289 (Columbia) Stochastic Gradient Descent as Approximate Bayesian Inference
+* Nips2019 (Chicago + Israël) Stochastic Gradient Descent on Separable Data: Exact Convergence with a Fixed Learning Rate
 
 
 ### 03.02.2021: BERT
@@ -55,7 +60,8 @@ Une présentation de BERT (Bidirectional Encoder Representations from Transforme
     <a href="https://youtu.be/eetNbgjV9VY" style="color:page.header.overlay_color">[Video]</a>
 <!-- </normal> -->
 
-Références : Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+Références :
+* Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 
 ### 11.01.2020: RL: from basics to Hindsight Experience Replay
 #### Pierre Fournier
