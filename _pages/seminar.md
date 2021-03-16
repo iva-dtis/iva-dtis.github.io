@@ -32,7 +32,7 @@ this page reports on the seminar (or reading group) of the unit and offers assoc
 ### 03.16.2021: Sur la convergence des apprentissages
 #### Adrien Chan Hon Tong
 
-![CVL](/images/imageAdrien.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+![Adrien](/images/imageAdrien.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
 On présente qq articles et résultats sur le choix des paramètres d'optimisation d'un réseau (learning rate, batch size, etc.) et on s'interroge sur leur pertinence pour la segmentaiton sémantique. 
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
@@ -45,8 +45,8 @@ Références : A compléter
 ### 03.02.2021: BERT
 #### William Grison
 
-![BERT](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-Une présentation de BERT () 
+![William](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+Une présentation de BERT (Bidirectional Encoder Representations from Transformers) 
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
@@ -54,3 +54,13 @@ Une présentation de BERT ()
     <a href="https://youtu.be/eetNbgjV9VY" style="color:page.header.overlay_color">[Video]</a>
 <!-- </normal> -->
 
+### 11.01.2020: RL: from basics to Hindsight Experience Replay
+#### Pierre Fournier
+
+![Pierre](/images/imagePierre.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+Une introduction au deep reinforcement learning 
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://drive.google.com/file/d/1t5ceLCuoPn-5rPSjnjOj6P4ASU5A8uet/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
+<!-- </normal> -->
