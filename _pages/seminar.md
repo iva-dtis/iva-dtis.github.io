@@ -47,7 +47,7 @@ Références : A compléter
 #### William Grison
 
 ![William](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-Une présentation de BERT (Bidirectional Encoder Representations from Transformers) 
+Une présentation de BERT (Bidirectional Encoder Representations from Transformers) depuis son introduction en NLP jusqu'à ses applications en Vision
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
