@@ -32,14 +32,24 @@ this page reports on the seminar (or reading group) of the unit and offers assoc
 ### 03.16.2021: Sur la convergence des apprentissages
 #### Adrien Chan Hon Tong
 
-![CVL](/images/OV2SLAM1.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-On présente qq articles et résultats sur le choix des paramètres d'optimisation d'un réseau (learning rate, batch size, etc.) et on s'interroge sur leur pertinence pour la segmentaiton sémantique.<!-- <normal> -->
+![CVL](/images/imageAdrien.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+On présente qq articles et résultats sur le choix des paramètres d'optimisation d'un réseau (learning rate, batch size, etc.) et on s'interroge sur leur pertinence pour la segmentaiton sémantique. 
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://drive.google.com/file/d/1CbD-WVXVha2RugW63501bksLZdxbEj6F/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
+<!-- </normal> -->
 
-Références
+Références : A compléter
 
 ### 03.02.2021: BERT
 #### William Grison
 
-![BERT](/images/OV2SLAM1.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-Une présentation de BERT ()<!-- <normal> -->
+![BERT](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+Une présentation de BERT () 
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://drive.google.com/file/d/11NNLZ1UEtXF3Vv0zvt4KW4ySgon2Kmlc/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
+<!-- </normal> -->
 
