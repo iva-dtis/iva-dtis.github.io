@@ -51,5 +51,6 @@ Une présentation de BERT ()
 <!-- <p style="text-align: right;"> -->
 <br />
     <a href="https://drive.google.com/file/d/11NNLZ1UEtXF3Vv0zvt4KW4ySgon2Kmlc/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
+    <a href="https://youtu.be/eetNbgjV9VY" style="color:page.header.overlay_color">[Video]</a>
 <!-- </normal> -->
 
