@@ -47,7 +47,7 @@ Références : A compléter
 #### William Grison
 
 ![William](/images/imageWilliam.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
-Une présentation de BERT (Bidirectional Encoder Representations from Transformers) depuis son introduction en NLP jusqu'à ses applications en Vision
+Une présentation de BERT (Bidirectional Encoder Representations from Transformers) depuis son introduction en NLP jusqu'à ses applications en Vision.
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
 <br />
@@ -55,6 +55,7 @@ Une présentation de BERT (Bidirectional Encoder Representations from Transforme
     <a href="https://youtu.be/eetNbgjV9VY" style="color:page.header.overlay_color">[Video]</a>
 <!-- </normal> -->
 
+Références : Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 
 ### 11.01.2020: RL: from basics to Hindsight Experience Replay
 #### Pierre Fournier
