@@ -29,6 +29,22 @@ author_profile: true
 
 this page reports on the seminar (or reading group) of the unit and offers associated documents (slides, video, references) 
 
+
+
+### 13 avril 2021: Sur les graphes de connaissances
+#### Baptiste Abeloos
+
+![Baptiste](/images/imageBaptiste.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+Introduction aux graphes de connaissances, à la notion de prédiction de liens, et présentation de l'article ConceptBert
+<!-- <normal> -->
+<!-- <p style="text-align: right;"> -->
+<br />
+    <a href="https://drive.google.com/file/d/1CioMAylEMlT0pJLEHqrYtkgCN6pkSeB2/view?usp=sharing" style="color:page.header.overlay_color">[PDF]</a>
+<!-- </normal> -->
+
+
+
+
 ### 16 mars 2021: Sur la convergence des apprentissages
 #### Adrien Chan Hon Tong
 
