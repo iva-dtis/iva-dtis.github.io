@@ -34,7 +34,7 @@ this page reports on the seminar (or reading group) of the unit and offers assoc
 ### 13 avril 2021: Sur les graphes de connaissances
 #### Baptiste Abeloos
 
-![Baptiste](/images/imageBaptiste.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
+![Baptiste](/images/KG_illu.png){: style="float: left; margin-right: 1em;height: 150px; margin-top: 1.5em;width: 200px"} 
 Introduction aux graphes de connaissances, à la notion de prédiction de liens, et présentation de l'article ConceptBert
 <!-- <normal> -->
 <!-- <p style="text-align: right;"> -->
