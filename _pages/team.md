@@ -18,6 +18,7 @@ Here are some of the permanent members of IVA with the links to their personal w
 -->
 
 * [Adrien Chan-Hon-Tong](https://www.onera.fr/fr/staff/adrien-chan-hon-tong)
+* [Elise Colin Koeniguer](https://github.com/elisekoeniguer)
 
 <!---
 * Philippe Cornic
@@ -29,7 +30,6 @@ Here are some of the permanent members of IVA with the links to their personal w
 * [Stéphane Herbin](https://stepherbin.github.io/)
 
 <!---
-* Elise Koeniguer
 * Alain Michel
 * Julien Moras
 -->
