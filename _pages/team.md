@@ -39,8 +39,9 @@ Here are some of the permanent members of IVA with the links to their personal w
 <!---
 * Martial Sanfourche
 * Patrick Secchi
-* Pauline Trouvé-Peloux
 -->
+* [Pauline Trouvé-Peloux](https://ptrouve.github.io/)
+
 
 * [Flora Weissgerber](https://flora.weissgerber.fr/)
 
